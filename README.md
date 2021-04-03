@@ -1,2 +1,2 @@
-# C21
-creating library, Boolean values
+# p5.play-boilerplate
+Boiler plate for p5.play
